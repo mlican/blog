@@ -8,7 +8,7 @@
     "build": "vuepress build",
     "deploy": "cloudbase framework deploy"
   },
-  "author": "BookerZhao",
+  "author": "VeryQ",
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^1.5.0"

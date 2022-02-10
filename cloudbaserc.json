@@ -5,14 +5,14 @@
   "functionRoot": "./functions",
   "functions": [],
   "framework": {
-    "name": "vuepress-app",
+    "name": "blog",
     "plugins": {
       "vuepress": {
         "use": "@cloudbase/framework-plugin-website",
         "inputs": {
           "buildCommand": "npm run build",
           "outputPath": ".vuepress/dist",
-          "cloudPath": "/blog"
+          "cloudPath": "/very"
         }
       }
     }
